@@ -32,4 +32,4 @@ An easier way to run it would be through a repl such as [repl.it](https://repl.i
 
 ### FINAL WORDS
 
-Thank you so much for downloading AOS! AOS 2 is coming soon!
+Thank you so much for using AOS! AOS-2 is available [here](https://github.com/Nanobot567/AOS-2/).
