@@ -1,5 +1,7 @@
 # AOS-1
 
+## NOTE: AOS 1 is now archived. Please head over to [AOS-GUI](https://github.com/aos-gui/aos-gui/) to get the latest version of AOS!
+
 ### GENERAL INFO
 
 AOS is an open-source OS created and produced by Nanobot567. It is made in Python 3.7 and coded in Visual Studio Code.
